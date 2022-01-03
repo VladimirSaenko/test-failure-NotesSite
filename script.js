@@ -31,7 +31,6 @@ main.innerHTML = marked(text);
 
 deleteBtn.addEventListener('click', () => {
     note.remove()
-
     updateLS();
 });
 
@@ -47,7 +46,7 @@ textArea.addEventListener('input', (e) => {
 });
 
     document.body.appendChild(note);
-};
+}
 
 function updateLS() {
     const notesText = document.querySelectorAll('textarea');
