@@ -7,4 +7,4 @@
 ## Codepen: https://codepen.io/vladimirsaenko/pen/RwLrZPV
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-41/Notes-Site/index.html
 
-### This repo forked from [@AlexanderKhapchenko](https://github.com/AlexanderKhapchenko)
+### Supported by [@AlexanderKhapchenko](https://github.com/AlexanderKhapchenko)
